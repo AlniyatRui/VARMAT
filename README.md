@@ -1,6 +1,6 @@
 # VARMAT
 
-**[AAAI26] Vulnerability-Aware Robust Multimodal Adversarial Training**
+**[AAAI 26] Vulnerability-Aware Robust Multimodal Adversarial Training**
 
 Junrui Zhang, Xinyu Zhao, Jie Peng, Chenjie Wang, Jianmin Ji, and Tianlong Chen
 
